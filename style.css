@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(245, 245, 219);
+    /*background-image: url('https://i.pinimg.com/474x/dc/9b/d7/dc9bd7351d7d232fafb5091946447c71.jpg');
+    background-size: cover;
+    background-repeat:no-repeat ;*/
+        color:rgb(218, 130, 230);
+    text-align: left;
+    font-size: 1em;
+    font-weight: 300;
+    font-family: sans-serif;
+}
+/*
+h2{
+background-color: aquamarine;
+
+}
+
+#DadesPersonals{
+    background-color: black;
+    text-align: left;
+}
+
+#DAAC{
+background-color: black;
+text-align: center;
+
+}
+
+#EXPE{
+    background-color: blueviolet;
+    text-align: center;
+}
