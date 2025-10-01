@@ -14,19 +14,34 @@ h1{
 background-color: aquamarine;
 font-family: "Delius", cursive;
 }
-/*
+
 #DadesPersonals{
     background-color: black;
-    text-align: left;
+    text-align: center;
+  display: inline-block;
+
 }
 
 #DAAC{
 background-color: black;
 text-align: center;
+  display: inline-block;
 
 }
 
 #EXPE{
     background-color: blueviolet;
     text-align: center;
+      display: inline-block;
+
+}
+
+#EXLA{
+    background-color: blueviolet;
+    text-align: center;
+}
+
+section{
+    display: inline-block;
+    width: 50%;
 }
